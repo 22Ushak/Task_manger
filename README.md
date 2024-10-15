@@ -29,3 +29,13 @@ A **Python-based Command Line Interface (CLI) Task Management Application** that
    ```bash
    git clone https://github.com/your-username/task-management-app.git
 
+2. **cd task-management-app**
+   ```bash
+   cd Task_manager
+
+3. **Run the Application**
+   ```bash
+   python task_manager.py
+
+
+
