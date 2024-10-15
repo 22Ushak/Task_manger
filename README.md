@@ -27,7 +27,7 @@ A **Python-based Command Line Interface (CLI) Task Management Application** that
 1. **Clone the Repository**  
    Open a terminal and run the following command:
    ```bash
-   git clone https://github.com/your-username/task-management-app.git
+   git clone https://github.com/22Ushak/Task_manger.git
 
 2. **cd task-management-app**
    ```bash
